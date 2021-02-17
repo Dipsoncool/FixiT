@@ -1,0 +1,55 @@
+.navbar {
+  background-color: #228c22;
+  height: 50px;
+}
+
+a,
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+#fixCarousel {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+  border: solid #228c22;
+}
+.how {
+  text-align: center;
+}
+
+.fixit-footer {
+  background-color: #228c22;
+  padding: 20px 0;
+}
+
+.clare {
+  color: white;
+}
+
+.logoimg {
+  height: auto;
+  width: auto;
+  max-height: 60px;
+  max-width: 250px;
+}
+
+.icon-lg {
+  height: auto;
+  width: auto;
+  max-height: 100px;
+  max-width: 250px;
+}
+
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 10px;
+}
